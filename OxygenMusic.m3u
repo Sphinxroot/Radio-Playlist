@@ -1,0 +1,45 @@
+#EXTM3U
+
+#### Made By Sphinxroot QC ####
+
+# https://oxygenmusic.hu/
+# https://oxygenmusic.hu:8443/ icecast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1Zp4r4.png",★★★★★★★★★★Oxygen Music HQ 320kbps★★★★★★★★★★
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a64hSnD.png" group-title="Radio",Oxygen Music - OXYGEN MUSIC
+https://oxygenmusic.hu:8443/oxygenmusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EFrwEf.png" group-title="Radio",Oxygen Music - THE 80's HITS
+https://oxygenmusic.hu:8443/oxygenthe80shits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/incoqqf.png" group-title="Radio",Oxygen Music - LOUNGE
+https://oxygenmusic.hu:8443/oxygenlounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9kI6A9g.png" group-title="Radio",Oxygen Music - MAGYAR ZENE
+https://oxygenmusic.hu:8443/oxygenmagyarzene
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPp3qRJ.png" group-title="Radio",Oxygen Music - XMAS
+https://oxygenmusic.hu:8443/xmas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGGpt0e.png" group-title="Radio",Oxygen Music - OZONE FM
+https://oxygenmusic.hu:8443/ozonefm_320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkyIq1E.png" group-title="Radio",Oxygen Music - CLASSIC ROCK
+https://oxygenmusic.hu:8443/oxygenclassicrock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UuykaQI.png" group-title="Radio",Oxygen Music - OXYGEN HAPPY
+https://oxygenmusic.hu:8443/oxygenhappy_320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZFj9OC.png" group-title="Radio",Oxygen Music - CLASSICS
+https://oxygenmusic.hu:8443/Classic_320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGcJYBQ.png" group-title="Radio",Oxygen Music - OLDIES
+https://oxygenmusic.hu:8443/oxygenoldies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qm6q1rZ.png" group-title="Radio",Oxygen Music - ITALO HITS
+https://oxygenmusic.hu:8443/oxygenitalohits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMMyIu.png" group-title="Radio",Oxygen Music - INDIE
+https://oxygenmusic.hu:8443/oxygenindie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BjNV1Nc.png" group-title="Radio",Oxygen Music - BLACK MUSIC
+https://oxygenmusic.hu:8443/blackmusic_320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yzTccgx.png" group-title="Radio",Oxygen Music - SPENCER-HILL ZENÉK
+https://oxygenmusic.hu:8443/oxygenspencerhillzenek
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9lTqch.png" group-title="Radio",Oxygen Music - KIDS
+https://oxygenmusic.hu:8443/oxygenkids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5WYVpk.png" group-title="Radio",Oxygen Music - FITNESS
+https://oxygenmusic.hu:8443/oxygenfitness
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yytkggz.png" group-title="Radio",Oxygen Music - LOVE SONGS
+https://oxygenmusic.hu:8443/oxygenlovesongs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8p5ssl5.png" group-title="Radio",Oxygen Music - THE 90's HITS
+https://oxygenmusic.hu:8443/oxygenthe90shits

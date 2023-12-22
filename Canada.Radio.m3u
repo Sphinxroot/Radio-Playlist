@@ -1,0 +1,745 @@
+#EXTM3U
+
+#### Made By Sphinxroot QC ####
+
+
+# https://acadiabroadcasting.ca/radio-on-air/  .aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XnuNhS.png" ,★★★★★[COLOR gold]Acadia Broadcasting[/COLOR]★★★★★
+0.0.0.0
+# https://www.ckdr.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5AjwYW.png" group-title="Acadia Broadcasting",CKDR 92.7 FM - Dryden | ON
+https://ais-sa1.streamon.fm/7231_128k.aac
+# https://www.999thebay.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ot8CquZ.png" group-title="Acadia Broadcasting",CJUK The Bay 99.9 FM - Thunder Bay | ON
+https://ais-sa1.streamon.fm/7237_128k.aac
+# https://www.country94.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2IzrghA.png" group-title="Acadia Broadcasting",CHSJ Country 94.1 FM - Saint John | NB
+https://ais-sa1.streamon.fm/7230_128k.aac
+# https://www.931theborder.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3UFS5Z.png" group-title="Acadia Broadcasting",CFOB The Border 93.1 FM - Fort Frances | ON
+https://ais-sa1.streamon.fm/7235_128k.aac
+# https://www.1015thehawk.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExlqFHh.png" group-title="Acadia Broadcasting",CIGO The Hawk 101.5 FM - Port Hawkesbury | NS
+https://prod-54-210-244-219.wostreaming.net/acadia-cigofmaac-hlsc2.m3u8
+# https://www.919thebend.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhzE9nT.png" group-title="Acadia Broadcasting",CKNI The Bend 91.9 FM - Moncton | NB
+https://ais-sa1.streamon.fm/7232_128k.aac
+# https://www.country1053.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sPvcWH.png" group-title="Acadia Broadcasting",CKTG Country 105.3 FM - Thunder Bay | ON
+https://ais-sa1.streamon.fm/7238_128k.aac
+# https://www.thewave.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODD05pg.png" group-title="Acadia Broadcasting",CHWV The Wave 97.3 FM - Saint John | NB
+https://ais-sa1.streamon.fm/7227_128k.aac
+# https://www.ckbw.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qal7CyV.png" group-title="Acadia Broadcasting",CKBW 98.1 94.5 93.1 FM - Bridgewater | NS
+https://ais-sa1.streamon.fm/7239_128k.aac
+# https://www.895thelake.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiTIMbb.png" group-title="Acadia Broadcasting",CJRL The Lake 89.5 FM - Kenora | ON
+https://ais-sa1.streamon.fm/7229_128k.aac
+# https://www.cjls.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g60gmrW.png" group-title="Acadia Broadcasting",CJLS Y95 95.5 FM - Yarmouth | NS
+https://ais-sa1.streamon.fm/7228_128k.aac
+# https://www.cjhk.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KwM36B.png" group-title="Acadia Broadcasting",CJHK Country 100.7 FM - Bridgewater | NS
+https://ais-sa1.streamon.fm/7226_128k.aac
+# https://www.charlottefm.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zN4h39j.png" group-title="Acadia Broadcasting",CHTD Charlotte 98.1 FM - St. Stephen | NB
+https://ais-sa1.streamon.fm/7236_128k.aac
+# https://hotcountry1035.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxEK3Ko.png" group-title="Acadia Broadcasting",CKHZ Hot Country 103.5 FM - Dartmouth | NS
+https://ais-sa1.streamon.fm/7738_128k.aac
+# https://surge105.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zMCLJO.png" group-title="Acadia Broadcasting",CKHY Surge 105.1 FM - Dartmouth | NS
+https://ais-sa1.streamon.fm/7737_128k.aac
+
+####
+
+# https://blackburnmedia.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vB9KHL6.png" ,★★★★★[COLOR gold]Blackburn Media[/COLOR]★★★★★
+0.0.0.0
+# https://country929.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQiOoeW.png" group-title="Blackburn Media",CFCO Country 92.9 FM
+https://blackburn-ais.leanstream.co/CFCOFM
+# https://943cksy.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8FOGqv.png" group-title="Blackburn Media",CKSY 94.3 FM CKSY
+https://blackburn-ais.leanstream.co/CKSYFM
+# https://chatham.coolradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDpBhJT.png" group-title="Blackburn Media",CKUE 95.1 Cool FM
+https://blackburn-ais.leanstream.co/CKUEFM
+# https://classicrock981.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFrEf1x.png" group-title="Blackburn Media",CKLO Classic Rock 98.1 FM
+https://blackburn-ais.leanstream.co/CKLOFM
+# https://foxfm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FThfVPp.png" group-title="Blackburn Media",CFGX The Fox 99.9 FM
+https://blackburn-ais.leanstream.co/CFGXFM
+# https://chok.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NaUUbH1.png" group-title="Blackburn Media",CHOK 103.9 FM & 1070 AM
+https://blackburn-ais.leanstream.co/CHOKAM
+# https://sarnia.coolradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xHjy2c.png" group-title="Blackburn Media",CHKS Cool 106.3 FM
+https://blackburn-ais.leanstream.co/CHKSFM
+# https://1017theone.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJTS847.png" group-title="Blackburn Media",CKNX 101.7 FM The One
+https://blackburn-ais.leanstream.co/CKNXFM
+# https://cknx.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8eV2oh6.png" group-title="Blackburn Media",CKNX 920 AM Country
+https://blackburn-ais.leanstream.co/CKNXAM
+# https://wingham.coolradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHPdHTJ.png" group-title="Blackburn Media",CIBU Cool 94.5 FM
+https://blackburn-ais.leanstream.co/CIBUFM
+# https://country959.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ze7FsOi.png" group-title="Blackburn Media",CJWF Windsor's Country 95.9 & 92.7 FM
+https://blackburn-ais.leanstream.co/CJWFFM
+# https://mix967.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5hU4kC.png" group-title="Blackburn Media",CHYR Mix 96.7 FM
+https://blackburn-ais.leanstream.co/CHYRFM
+# https://windsor.coolradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nec1tIZ.png" group-title="Blackburn Media",CKUE 100.7 Cool FM
+https://blackburn-ais.leanstream.co/CKUEF2
+
+####
+
+# https://evanov.ca/stations/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bdSqzdf.png" ,★★★★★[COLOR gold]Evanov Radio[/COLOR]★★★★★
+0.0.0.0
+# https://z1035.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/130cOD9.png" group-title="Evanov",CIDC Z103.5
+https://evanov.leanstream.co/CIDCFM
+# https://lite885.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAoSUeU.png" group-title="Evanov",CKDX Lite 88.5
+https://evanov.leanstream.co/evanov/CKDXFM.stream/playlist.m3u8
+# https://proudfm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1tuREye.png" group-title="Evanov",CIRR Proud FM 103.9
+https://ice7.securenetsystems.net/CIRR
+# https://am530.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQLzoSA.png" group-title="Evanov",CHLO AM 530
+https://ice23.securenetsystems.net/CIAO
+# https://lite92.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EDivwf.png" group-title="Evanov",CKPC FM Lite 92.1
+http://ice5.securenetsystems.net/CKPCFM
+# https://hotcountry939.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQGSgWB.png" group-title="Evanov",CFWC Hot Country 93.9
+http://ice7.securenetsystems.net/CFWC
+# https://arise1380.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMzRPzG.png" group-title="Evanov",CKPC Arise 1380
+https://ice5.securenetsystems.net/CKPC
+# https://www.energy106.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qinGlZo.png" group-title="Evanov",CHWE FM Energy 106
+http://ice41.securenetsystems.net/CHWE
+# https://hot1005fm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XccP6eQ.png" group-title="Evanov",CFJL Hot 100.5
+https://ice41.securenetsystems.net/CFJL
+# https://ckjs.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25Krdos.png" group-title="Evanov",92.7 CKJS-FM
+https://ice5.securenetsystems.net/CKJS
+# https://hotcountry1077.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inanGi2.png" group-title="Evanov",CKHK FM Hot Country 107.7
+https://ice41.securenetsystems.net/CKHK
+# https://lite985.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJdNCpA.png" group-title="Evanov",CJWL FM LITE 98.5
+http://ice23.securenetsystems.net/CJWL
+# http://lite993.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MpWHHa7.png" group-title="Evanov",CJGB FM Lite 99.3
+https://ice23.securenetsystems.net/CJGB
+# https://hotcountry925.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giLhTHS.png" group-title="Evanov",CHRC FM Hot Country 92.5
+http://ice41.securenetsystems.net/CHRC
+# https://lite1067.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUk8SJK.png" group-title="Evanov",CHSV FM LITE 106.7
+http://ice10.securenetsystems.net/CHSV
+# https://cfmb.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6aAmdc.png" group-title="Evanov",CFMB AM 1280
+https://ice41.securenetsystems.net/CFMB
+
+####
+
+# https://www.iheartradio.ca/funny/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IB41jyU.png" ,★★★★★[COLOR gold]Funny Comedy Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wSCbmq.png" group-title="Bell Media Radio",CFRW Funny 1290 AM - Winnipeg | MB
+https://24223.live.streamtheworld.com/CFRWAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpJdWOt.png" group-title="Bell Media Radio",CKST Funny 1040 AM - Vancouver | BC
+https://18443.live.streamtheworld.com/CKSTAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FT6mFJZ.png" group-title="Bell Media Radio",CHAM Funny 820 AM - Hamilton | ON
+https://24283.live.streamtheworld.com/CHAMAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rorROKb.png" group-title="Bell Media Radio",CKMX Funny 1060 AM - Calgary | AB
+https://19273.live.streamtheworld.com/CKMXAMAAC.aac
+
+####
+
+# https://www.iheartradio.ca/purecountry/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68o0fFO.png" ,★★★★★[COLOR gold]Pure Country Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCusaME.png" group-title="Bell Media Radio",CJDC Pure Country 890 AM - Dawson Creek | BC
+https://13693.live.streamtheworld.com/CJDCAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHnP81a.png" group-title="Bell Media Radio",CJFW Pure Country 103.1 FM - Terrace | BC
+https://14943.live.streamtheworld.com/CJFWFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdJfyEb.png" group-title="Bell Media Radio",CICF Pure Country 105.7 FM - Vernon | BC
+https://13693.live.streamtheworld.com/CICFFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PjjRHb.png" group-title="Bell Media Radio",CHBD Pure Country 92.7 Fm - Regina | SK
+https://20263.live.streamtheworld.com/CHBDFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yoe8g6G.png" group-title="Bell Media Radio",CKXA Pure Country 101.1 FM - Brandon | MB
+https://18063.live.streamtheworld.com/CKXAFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XluQ3Dh.png" group-title="Bell Media Radio",CKLC Pure Country 98.9 FM - Kingston | ON
+https://26303.live.streamtheworld.com/CKLCFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssLaz18.jpg" group-title="Bell Media Radio",CJBX Pure Country 92.7 FM - London | ON
+https://14833.live.streamtheworld.com/CJBXFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58L7VvR.png" group-title="Bell Media Radio",CICX Pure Country 105.9 FM - Orillia | ON
+https://15113.live.streamtheworld.com/CICXFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKrxBPV.png" group-title="Bell Media Radio",CKKL Pure Country 93.9 FM - Ottawa | ON
+https://24443.live.streamtheworld.com/CKKLFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6FqBsB.png" group-title="Bell Media Radio",CHVR Pure Country 96.7 FM - Pembroke | ON
+https://18363.live.streamtheworld.com/CHVRFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXj77E7.png" group-title="Bell Media Radio",CKQM Pure Country 105.1 FM - Peterborough | ON
+https://24413.live.streamtheworld.com/CKQMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HdgOzYx.png" group-title="Bell Media Radio",CICS Pure Country 91.7 FM - Sudbury | ON
+https://24223.live.streamtheworld.com/CICSFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qWJF6v.png" group-title="Bell Media Radio",CIMX Pure Country 88.7 FM - Windsor | ON
+https://26363.live.streamtheworld.com/CIMXFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzqOMoL.png" group-title="Bell Media Radio",CKHJ Pure Country 103.5 FM - Fredericton | NB
+https://24293.live.streamtheworld.com/CKHJAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCQB8Uc.png" group-title="Bell Media Radio",CJCJ Pure Country 104.1 FM - Woodstock | NB
+https://15053.live.streamtheworld.com/CJCJFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ec037Vm.png" group-title="Bell Media Radio",CKTY Pure Country 99.5 FM - Truro | NS
+https://24273.live.streamtheworld.com/CKTYFMAAC.aac
+
+####
+
+# https://www.iheartradio.ca/move/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpO5Mzg.png" ,★★★★★[COLOR gold]Move Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVea5OO.png" group-title="Bell Media Radio",CJMG Move 97.1 FM - Penticton | BC
+https://24883.live.streamtheworld.com/CJMGFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a2ZBkx.png" group-title="Bell Media Radio",CFLY Move 98.3 FM - Kingston | ON
+https://24273.live.streamtheworld.com/CFLYFM.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNeF2dQ.png" group-title="Bell Media Radio",CHRX Move 98.5 FM - Fort St. John | BC
+https://14083.live.streamtheworld.com/CHRXFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmFIxyF.png" group-title="Bell Media Radio",CKPT Move 99.7 FM - Peterborough | ON
+https://26113.live.streamtheworld.com/CKPTFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2GCDgCZ.png" group-title="Bell Media Radio",CIOO Move 100.1 FM - Halifax | NS
+https://24363.live.streamtheworld.com/CIOOFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5q1XRK7.png" group-title="Bell Media Radio",CJMJ Move 100.3 FM - Ottawa | ON
+https://15053.live.streamtheworld.com/CJMJFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ6EQWX.png" group-title="Bell Media Radio",CILK Move 101.5 FM - kelowna | BC
+https://25023.live.streamtheworld.com/CILKFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4i6YUfj.png" group-title="Bell Media Radio",CHQM Move 103.5 FM - Vancouver | BC
+https://24973.live.streamtheworld.com/CHQMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlcDLeI.png" group-title="Bell Media Radio",CFJR Move 104.9 FM - Brockville | ON
+https://24233.live.streamtheworld.com/CFJRFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFrS8BQ.png" group-title="Bell Media Radio",CHRE Move 105.7 FM - St. Catharines | ON
+https://17513.live.streamtheworld.com/CHREFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VOPBAIV.png" group-title="Bell Media Radio",CIBX Move 106.9 FM - Fredericton | NB
+https://18103.live.streamtheworld.com/CIBXFMAAC.aac
+
+####
+
+# https://www.rogerssportsandmedia.com/what-we-do/radio-podcasts/ https://en.wikipedia.org/wiki/Rogers_Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNkgxKy.jpg" ,★★★★★[COLOR gold]Rogers Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Vancouver CKWX 1130 AM
+https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORn7cJc.png" group-title="",Country Abbotsford CKQC 107.1 FM
+https://rogers-hls.leanstream.co/rogers/abb1071.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bnEImI.png" group-title="",Jack Vancouver CJAX 96.9 FM
+https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noZ5eEg.png" group-title="",Jack Victoria CHTT 103.1 FM
+https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjQLmtN.png" group-title="",Kiss Chilliwack CKKS 107.5 FM / Vancouver CFUN 104.9 FM
+https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJ5ElnU.png" group-title="",Mountain FM Squamish CISQ 107.1 FM / Whistler CISW 102.1
+https://rogers-hls.leanstream.co/rogers/squ1071.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDdBg2e.png" group-title="",Ocean Victoria CIOC 98.5 FM
+https://rogers-hls.leanstream.co/rogers/vic985.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lnpy8bD.jpg" group-title="",SportNet Vancouver CISL 650 AM
+https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CS4eibm.png" group-title="",Star Chilliwack 98.3 FM
+https://rogers-hls.leanstream.co/rogers/chi983.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na7yF5Y.png" group-title="",97.7 Rock 	Grande Prairie CFGP 97.7 FM
+https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2xcRBR.png" group-title="",97.9 Rock 	Fort McMurray CKYX 97.9 FM
+https://rogers-hls.leanstream.co/rogers/for979.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFLhaX7.png" group-title="",105.3 Rock Medicine Hat CKMH 105.3 FM
+https://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DN3iZka.png" group-title="",106.7 Rock Lethbridge CJRX 106.7 FM
+http://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjQLmtN.png" group-title="",CHFM Calgary CHFM 95.9 FM
+https://rogers-hls.leanstream.co/rogers/cal959.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Calgary Radio CFFR 660 AM
+https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98JX8an.jpg" group-title="",Country Fort McMurray CJOK 93.3 FM
+https://rogers-hls.leanstream.co/rogers/for933.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMfizZP.png" group-title="",Jack Calgary CJAQ 96.9 FM
+https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IxOOfk.png" group-title="",Jack Medicine Hat CJCY 102.1 FM
+https://rogers-hls.leanstream.co/rogers/med1021.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sm84jB.png" group-title="",Kiss Edmonton CHBN 91.7 FM
+https://rogers-hls.leanstream.co/rogers/edm917.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Dh3uLE.png" group-title="",Kiss Lethbridge CFRV 107.7 FM
+https://rogers-hls.leanstream.co/rogers/let1077.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqrlRsE.png" group-title="",Mountain FM Canmore CHMN 106.5 FM
+https://rogers-hls.leanstream.co/rogers/can1065.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmtDy2x.png" group-title="",SONiC Edmonton CHDI 102.9 FM
+https://rogers-hls.leanstream.co/rogers/edm1029.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOOY0pM.jpg" group-title="",SportNet Calgary CFAC 960 AM
+https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vzT0ls.png" group-title="",92.1 CITI Winnipeg CITI 92.1 FM
+http://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqb9JCg.png" group-title="",Kiss Winnipeg CKY 102.3 FM
+https://rogers-hls.leanstream.co/rogers/win1023.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snMflEp.png" group-title="",92.1 Rock Timmins CJQQ 92.1 FM
+https://rogers-hls.leanstream.co/rogers/tim921.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hkz8OQu.png" group-title="",92.7 Rock Sudbury CJRQ 92.7 FM
+https://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3QWrhz.png" group-title="",98.1 CHFI Toronto CHFI 98.1 FM
+https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HF6eZ0.png" group-title="",101.3 Easy Tillsonburg CKOT 101.3 FM
+https://rogers-hls.leanstream.co/rogers/til1013.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfWwrI9.png" group-title="",101.9 Rock North bay CKFX 101.9 FM
+https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCR9sc9.png" group-title="",106.1 CHEZ Ottawa CHEZ 106.1 FM
+http://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5HKGLK.png" group-title="",CHYM Kitchener CHYM 96.7 FM
+https://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Kitchener CKGL 570 AM
+https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Ottawa CKBY 101.1 FM / CIWW 1310 AM
+https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Toronto CFTR 680 AM
+https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjBXZDz.png" group-title="",Country Kingston CKXC 93.5 FM
+https://rogers-hls.leanstream.co/rogers/kin935.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/piJgE9U.jpg" group-title="",Country Kitchener CIKZ 106.7 FM
+https://rogers-hls.leanstream.co/rogers/kit1067.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nAiGfAH.png" group-title="",Country North Bay CKAT 600 AM
+https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4QtHav.png" group-title="",Country Sault Ste.Marie CJQM 104.3
+https://rogers-hls.leanstream.co/rogers/sau1043.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRE0Oxt.jpg" group-title="",Country Smiths Falls CJET 92.3 FM
+https://rogers-hls.leanstream.co/rogers/ott923.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TAeAc8b.png" group-title="",Country Tillsonburg CJDL 107.3 FM
+https://rogers-hls.leanstream.co/rogers/til1073.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xzsFsH.png" group-title="",Jack London CHST 102.3 FM
+https://rogers-hls.leanstream.co/rogers/lon1023.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMqk1ge.png" group-title="",K-Rock Kingston CIKR 105.7 FM
+https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epkKHa9.png" group-title="",KiSS Kingston WLYK 102.7
+https://rogers-hls.leanstream.co/rogers/kin1027.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTy73E8.png" group-title="",Kiss North Bay CHUR 100.5 FM
+https://rogers-hls.leanstream.co/rogers/nor1005.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2VxNda.jpg" group-title="",Kiss Ottawa CISS 105.3 FM
+https://rogers-hls.leanstream.co/rogers/ott1053.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Li2fitz.png" group-title="",Kiss Sault Ste.Marie CHAS 100.5 FM
+https://rogers-hls.leanstream.co/rogers/sau1005.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdlkmdM.png" group-title="",Kiss Sudbury CJMX 105.3
+https://rogers-hls.leanstream.co/rogers/sud1053.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nVxKKb.png" group-title="",Kiss Timmins CKGB 99.3 FM
+https://rogers-hls.leanstream.co/rogers/tim993.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GthSRDs.png" group-title="",KiSS Toronto CKIS 92.5 FM
+https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLGtCrR.png" group-title="",SportNet Toronto CJCL 590 AM
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Halifax Radio CJNI 95.7 FM
+https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kT4fqYi.png" group-title="",Jack Dartmouth CFLT 92.9 FM
+https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
+
+####
+
+# https://www.stingray.com/radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swuH4c2.jpg" ,★★★★★[COLOR gold]Stingray Radio[/COLOR]★★★★★
+0.0.0.0
+# https://player.boom941.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8KHJY4.png" group-title="Stingray Radio",Stingray Radio - CKBAFM – Boom 94.1 FM - Athabasca | AB
+https://newcap.leanstream.co/CKBAFM-MP3
+# https://player.realcountrysouthwest.ca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYPHdd7.png" group-title="Stingray Radio",Stingray Radio - CJPRFM - Real Country 94.9 FM - Blairmore | AB
+https://newcap.leanstream.co/CJPRFM-MP3
+# https://player.hot1013fm.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mtnBQkn.png" group-title="Stingray Radio",Stingray Radio - CJEGFM - Hot 101.3 FM - Bonnyville | AB
+https://newcap.leanstream.co/CJEGFM-MP3
+# https://player.realcountrybrooks.ca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/us63Is9.png" group-title="Stingray Radio",Stingray Radio - CIBQFM - Real Country 105.7 FM - Brooks | AB
+https://newcap.leanstream.co/CIBQFM-MP3
+# https://player.boom1011.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBBye7u.png" group-title="Stingray Radio",Stingray Radio - CIXFFM – Boom 94.1 FM - Brooks | AB
+https://newcap.leanstream.co/CIXFFM-MP3
+# https://player.ampcalgary.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upB0co5.png" group-title="Stingray Radio",Stingray Radio - CKMPFM – Amp 90.3 FM  - Calgary | AB
+https://newcap.leanstream.co/CKMPFM-MP3
+# https://player.xl103calgary.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctf1BQG.png" group-title="Stingray Radio",Stingray Radio - CFXLFM – xl103 103.1 FM - Calgary | AB
+https://newcap.leanstream.co/CFXLFM-MP3
+# https://player.newcountry981.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJGWxgM.png" group-title="Stingray Radio",Stingray Radio - CFCWFM – New Country 98.1 FM - Camrose | AB
+https://newcap.leanstream.co/CFCWFM-MP3
+# https://player.boom953.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4m8AmVu.png" group-title="Stingray Radio",Stingray Radio - CJXKFM – boom 95.3 FM - Cold Lake | AB
+https://newcap.leanstream.co/CJXKFM-MP3
+# https://player.realcountry910.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3osu2LG.jpg" group-title="Stingray Radio",Stingray Radio - CKDQAM - Real Country 910 AM - Drumheller | AB
+https://newcap.leanstream.co/CKDQAM-MP3
+# https://player.boom995.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9hvWr.png" group-title="Stingray Radio",Stingray Radio - CHOOFM - boom 99.5 FM - Drumheller | AB
+https://newcap.leanstream.co/CHOOFM-MP3
+# https://player.cfcw.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzwdeB3.png" group-title="Stingray Radio",Stingray Radio - CFCWAM – CFCW 840 AM - Edmonton | AB
+https://newcap.leanstream.co/CFCWAM-MP3
+# https://player.k97.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FwCfWm8.png" group-title="Stingray Radio",Stingray Radio - CIRKFM – K-97 97.3 FM - Edmonton | AB
+https://newcap.leanstream.co/CIRKFM-MP3
+# https://player.963thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgmua0o.png" group-title="Stingray Radio",Stingray Radio - CKRAFM – The Breeze 96.3 FM - Edmonton | AB
+https://newcap.leanstream.co/CKRAFM-MP3
+# https://player.realcountrywest.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TTV0hN.png" group-title="Stingray Radio",Stingray Radio - CFXEFM – Real Country West 94.3 FM - Edson | AB
+https://newcap.leanstream.co/CFXEFM-MP3
+# https://player.realcountryhighprairie.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UalJ7bm.png" group-title="Stingray Radio",Stingray Radio - CKVHFM – Real Country 93.5 FM - High Prairie | AB
+https://newcap.leanstream.co/CKVHFM-MP3
+# https://player.boom1049.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zq01e4h.png" group-title="Stingray Radio",Stingray Radio - CFHIFM – boom 104.9 FM  - Hinton | AB
+https://newcap.leanstream.co/CFHIFM-MP3
+# https://player.boom1035.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4iLW3Pt.png" group-title="Stingray Radio",Stingray Radio - CILBFM – boom 103.5 FM - Lac La Biche | AB
+https://newcap.leanstream.co/CILBFM-MP3
+# https://player.realcountrylloydminster.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hx2MPyx.png" group-title="Stingray Radio",Stingray Radio - CKSAFM – Real Country 95.9 FM - Lloydminster | AB
+https://newcap.leanstream.co/CKSAFM-MP3
+# https://player.zed989.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLyRVSs.png" group-title="Stingray Radio",Stingray Radio - CIZZFM – Zed 98.9 FM - Red Deer | AB
+https://newcap.leanstream.co/CIZZFM-MP3
+# https://player.realcountryreddeer.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kP5c6en.png" group-title="Stingray Radio",Stingray Radio - CKGYFM – Real Country 95.5 FM - Red Deer | AB
+https://newcap.leanstream.co/CKGYFM-MP3
+# https://player.boom927.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6plubIC.png" group-title="Stingray Radio",Stingray Radio - CHSLFM – boom 92.7 FM - Slave Lake | AB
+https://newcap.leanstream.co/CHSLFM-MP3
+# https://player.realcountrystpaul.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7nWnLc.png" group-title="Stingray Radio",Stingray Radio - CHSPFM – Real Country 97.7 FM - St. Paul | AB
+https://newcap.leanstream.co/CHSPFM-MP3
+# https://player.realcountrystettler.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyRCmv0.png" group-title="Stingray Radio",Stingray Radio - CKSQFM - Real Country 93.3 FM - Stettler | AB
+https://newcap.leanstream.co/CKSQFM-MP3
+# https://player.hot937.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuMarat.png" group-title="Stingray Radio",Stingray Radio - CKWYFM – HOT 93.7 FM - Wainwright | AB
+https://newcap.leanstream.co/CKWYFM-MP3
+# https://player.1019boom.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uikVIn.png" group-title="Stingray Radio",Stingray Radio - CKKYFM – boom 101.9 FM - Wainwright | AB
+https://newcap.leanstream.co/CKKYFM-MP3
+# https://player.realcountry979.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nfno9q8.png" group-title="Stingray Radio",Stingray Radio - CKWBFM – Real Country 97.9 FM - Westlock | AB
+https://newcap.leanstream.co/CKWBFM-MP3
+# https://player.w1440.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLAG5Mq.png" group-title="Stingray Radio",Stingray Radio - CKJRAM – W1440 1440AM - Wetaskiwin | AB
+https://newcap.leanstream.co/CKJRAM-MP3
+# https://player.boom967.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0kE6Jd.png" group-title="Stingray Radio",Stingray Radio - CFXWFM - boom 96.7 FM - Whitecourt | AB
+https://newcap.leanstream.co/CFXWFM-MP3
+# https://player.newcountry1031.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhmF2wF.png" group-title="Stingray Radio",Stingray Radio - CJKCFM – New Country 103.1 FM - Kamloops | BC
+https://newcap.leanstream.co/CJKCFM-MP3
+# https://player.radionl.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzgT1Dc.png" group-title="Stingray Radio",Stingray Radio - CHNLAM – Radio NL 610 AM - Kamloops | BC
+https://newcap.leanstream.co/CHNLAM-MP3
+# https://player.k975.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75iSYJB.png" group-title="Stingray Radio",Stingray Radio - CKRVFM – K 97.5 FM - Kamloops | BC
+https://newcap.leanstream.co/CKRVFM-MP3
+# https://player.k963.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdRrtWC.png" group-title="Stingray Radio",Stingray Radio - CKKOFM – K 96.3 FM - Kelowna | BC
+https://newcap.leanstream.co/CKKOFM-MP3
+# https://player.country1007.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01aeehr.png" group-title="Stingray Radio",Stingray Radio - CIGVFM – Country 100.7 FM - Penticton | BC
+https://newcap.leanstream.co/CIGVFM-MP3
+# https://player.z953.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOnRm76.png" group-title="Stingray Radio",Stingray Radio - CKZZFM - Z 95.3 FM - Vancouver | BC
+https://newcap.leanstream.co/CKZZFM-MP3
+# https://player.1043thebreeze.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zOIW9z.png" group-title="Stingray Radio",Stingray Radio - CHLGFM - The Breeze 104.3 FM - Vancouver | BC
+https://newcap.leanstream.co/CHLGFM-MP3
+# https://player.rewind931.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2K1NBw.png" group-title="Stingray Radio",Stingray Radio - CIHIFM - rewind 93.1 FM - Fredericton | NB
+https://newcap.leanstream.co/CIHIFM-MP3
+# https://player.newcountry923.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcBbzKI.png" group-title="Stingray Radio",Stingray Radio - CFRKFM - New Country 92.3 FM - Fredericton | NB
+https://newcap.leanstream.co/CFRKFM-MP3
+# https://player.rewind959.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E8zdsI5.png" group-title="Stingray Radio",Stingray Radio - CHHIFM - rewind 95.9 Fm - Miramichi | NB
+https://newcap.leanstream.co/CHHIFM-MP3
+# https://player.q103fm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CazE8qP.png" group-title="Stingray Radio",Stingray Radio - CJMOFM – Q 103.1 Fm - Moncton | NB
+https://newcap.leanstream.co/CJMOFM-MP3
+# https://player.newcountry969.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4epJHgM.png" group-title="Stingray Radio",Stingray Radio - CJXLFM - New Country 96.9 FM - Moncton | NB
+https://newcap.leanstream.co/CJXLFM-MP3
+# https://player.q889.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sz4dSS8.png" group-title="Stingray Radio",Stingray Radio - CHNIFM – Q 88.9 FM - Saint John | NB
+https://newcap.leanstream.co/CHNIFM-MP3
+# https://player.newcountry1039.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8JK5jM.png" group-title="Stingray Radio",Stingray Radio - CHVOFM – New Country 103.9 FM - Carbonear | NL
+https://newcap.leanstream.co/CHVOFM-MP3
+# https://player.newcountry971.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neWw9X4.png" group-title="Stingray Radio",Stingray Radio - CKLNFM - New Country 97.1 FM - Clarenville | NL
+https://newcap.leanstream.co/CKLNFM-MP3
+# https://player.bigland.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9B67JIO.png" group-title="Stingray Radio",Stingray Radio - CFLNFM – Big Land Labrador's 97.9 FM - Corner Brook | NL
+https://newcap.leanstream.co/CFLNFM-MP3
+# https://player.k-rock1039.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQuCDb6.png" group-title="Stingray Radio",Stingray Radio - CKXXFM - K-Rock 103.9 FM - Corner Brook | NL
+https://newcap.leanstream.co/CKXXFM-MP3
+# https://player.vocm.com/CFCBAM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zLtegU4.png" group-title="Stingray Radio",Stingray Radio - CFCBAM – CFCB 570 AM - Corner Brook | NL
+https://newcap.leanstream.co/CFCBAM-MP3
+# https://player.987krock.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8u9Tih.png" group-title="Stingray Radio",Stingray Radio - CKXDFM – K-Rock 98.7 FM - Gander | NL
+https://newcap.leanstream.co/CKXDFM-MP3
+# https://player.krocknl.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXFF6Ig.png" group-title="Stingray Radio",Stingray Radio - CKXGFM - K-Rock 102.3 FM - Grand Falls-Windsor | NL
+https://newcap.leanstream.co/CKXGFM-MP3
+# https://player.hot991.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8GUsKI.png" group-title="Stingray Radio",Stingray Radio - CKIXFM – HOT 99.1 FM - St John's | NL
+https://newcap.leanstream.co/CKIXFM-MP3
+# https://player.vocm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFinzmR.png" group-title="Stingray Radio",Stingray Radio - VOCMAM – Local News Now 590 AM - St John's | NL
+https://newcap.leanstream.co/VOCMAM-MP3
+# https://player.k-rock975.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7i9nmx.png" group-title="Stingray Radio",Stingray Radio - VOCMFM – K-Rock 97.5 FM - St John's | NL
+https://newcap.leanstream.co/VOCMFM-MP3
+# https://player.newcountry930.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYEpeX3.png" group-title="Stingray Radio",Stingray Radio - CJYQAM – New Country 930 AM - St John's | NL
+https://newcap.leanstream.co/CJYQAM-MP3
+# https://player.k-rock1039.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pA5HPd.png" group-title="Stingray Radio",Stingray Radio - CKXXFM - K-Rock 103.9 FM - Stephenville | NL
+https://newcap.leanstream.co/CKXXFM-MP3
+# https://player.965thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YRWAIm.png" group-title="Stingray Radio",Stingray Radio - CKULFM - The Breeze 96.5 FM - Halifax | NS
+https://newcap.leanstream.co/CKULFM-MP3
+# https://player.q104.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqZFj85.png" group-title="Stingray Radio",Stingray Radio - CFRQFM – Q 104.3 FM - Halifax | NS
+https://newcap.leanstream.co/CFRQFM-MP3
+# https://player.rewind893.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOfDMy1.png" group-title="Stingray Radio",Stingray Radio - CIJKFM - rewind 89.3 FM - New Minas | NS
+https://newcap.leanstream.co/CIJKFM-MP3
+# https://player.hot1019.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMm8ONy.png" group-title="Stingray Radio",Stingray Radio - CHRKFM – HOT 101.9 FM - Sydney | NS
+https://newcap.leanstream.co/CHRKFM-MP3
+# https://player.newcountry1035.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p71sOsw.png" group-title="Stingray Radio",Stingray Radio - CKCHFM – New Country 103.5 FM - Sydney | NS
+https://newcap.leanstream.co/CKCHFM-MP3
+# https://player.941thebreeze.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KoOwEyF.png" group-title="Stingray Radio",Stingray Radio - CKECFM – The Breeze 94.1 FM - New Glasgow | NS
+https://newcap.leanstream.co/CKECFM-MP3
+# https://player.q979.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DmnMwK.png" group-title="Stingray Radio",Stingray Radio - CKEZFM – Q 97.9 FM - New Glasgow | NS
+https://newcap.leanstream.co/CKEZFM-MP3
+# https://player.live885.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSShijD.png" group-title="Stingray Radio",Stingray Radio - CILVFM – Live 88.5 FM - Ottawa | ON
+https://newcap.leanstream.co/CILVFM-MP3
+# https://player.hot899.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6Va1DQ.png" group-title="Stingray Radio",Stingray Radio - CIHTFM – Hot 89.9 FM - Ottawa | ON
+https://newcap.leanstream.co/CIHTFM-MP3
+# https://player.hot935.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKxb75Z.png" group-title="Stingray Radio",Stingray Radio - CIGMFM – Hot 93.5 FM - Sudbury | ON
+https://newcap.leanstream.co/CIGMFM-MP3
+# https://player.rewind1039.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hb2WTWq.png" group-title="Stingray Radio",Stingray Radio - CHNOFM – rewind 103.9 FM - Sudbury | ON
+https://newcap.leanstream.co/CHNOFM-MP3
+# https://player.boom973.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCFeHG1.png" group-title="Stingray Radio",Stingray Radio - CHBMFM – boom 97.3 FM - Toronto | ON
+https://newcap.leanstream.co/CHBMFM-MP3
+# https://player.935todayradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mgih0T8.png" group-title="Stingray Radio",Stingray Radio - CFXJFM - Today Radio 93.5 Fm - Toronto | ON
+https://newcap.leanstream.co/CFXJFM-MP3
+# https://player.ocean100.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d77g1T8.png" group-title="Stingray Radio",Stingray Radio - CHTNFM - Ocean 100.3 FM - Charlottetown | PE
+https://newcap.leanstream.co/CHTNFM-MP3
+# https://player.hot1055fm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfer1Xx.png" group-title="Stingray Radio",Stingray Radio - CKQKFM - Hot 105.5 FM - Charlottetown | PE
+https://newcap.leanstream.co/CKQKFM-MP3
+
+####
+
+# https://www.tsn.ca/radio https://www.iheartradio.ca/tsn/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxVGLKj.png" ,★★★★★[COLOR gold]TSN Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGbGAib.jpg" group-title="Bell Media Radio",CFRN TSN Radio 1260 AM - Edmonton | AB
+https://24863.live.streamtheworld.com/CFRNAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFUjMBb.jpg" group-title="Bell Media Radio",CKGM TSN Radio 690 AM - Montreal | QC
+https://24223.live.streamtheworld.com/CKGMAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12CAW3X.jpg" group-title="Bell Media Radio",CFGO TSN Radio 1200 AM - Ottawa | ON 
+https://20263.live.streamtheworld.com/CFGOAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYvRPb.jpg" group-title="Bell Media Radio",CHUM TSN Radio 1050 AM - Toronto | ON
+https://18863.live.streamtheworld.com/CHUMAMAAC.aac
+
+####
+
+# https://www.iheartradio.ca/virginradio/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVG0Cpj.png" ,★★★★★[COLOR gold]Virgin Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CIBK Virgin Radio 98.5 FM - Calgary | AB
+https://13693.live.streamtheworld.com/CIBKFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CFMG Virgin Radio 104.9 FM - Edmonton | AB
+https://17853.live.streamtheworld.com/CFMGFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CJCH Virgin Radio 101.3 FM - Halifax | NS
+https://24373.live.streamtheworld.com/CJCHFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CHSU Virgin Radio 99.9 FM - Kelowna | BC
+https://14623.live.streamtheworld.com/CHSUFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CFCA Virgin Radio 105.3 FM - Kitchener | ON
+https://26253.live.streamtheworld.com/CFCAFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CIQM Virgin Radio 97.5 FM - London | ON
+https://24233.live.streamtheworld.com/CIQMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CJFM Virgin Radio 95.9 FM - Montreal | QC
+https://22123.live.streamtheworld.com/CJFMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CKFM Virgin Radio 99.9 FM - Toronto | ON
+https://17553.live.streamtheworld.com/CKFMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CFBT Virgin Radio 94.5 FM - Vancouver | BC
+https://25083.live.streamtheworld.com/CFBTFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CHBE Virgin Radio 107.3 FM - Victoria | BC
+https://24873.live.streamtheworld.com/CHBEFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CIDR Virgin Radio 93.9 Windsor | ON
+https://26253.live.streamtheworld.com/CIDRFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mh6uS0.png" group-title="Bell Media Radio",CKMM Virgin Radio 103.1 FM - Winnipeg | MB
+https://18063.live.streamtheworld.com/CKMMFMAAC.aac
+
+####
+
+# https://radioplayer.vistaradio.ca/#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDmOwtw.png" ,★★★★★★[COLOR gold]Vista Radio[/COLOR]★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvLe5lr.png" group-title="Vista Radio",CIRX 94.3 FM The GOAT - Prince Georges
+https://vistaradio.streamb.live/SB00066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvLe5lr.png" group-title="Vista Radio",CIVH 95.9 FM The GOAT - Vanderhoof
+https://vistaradio.streamb.live/SB00076
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvLe5lr.png" group-title="Vista Radio",CKLM 106.1 FM The GOAT - Lloydminster
+https://vistaradio.streamb.live/SB00090
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvLe5lr.png" group-title="Vista Radio",CFFM 94.9/97.5/99.7 FM The Goat - Quesnel/William Lake/100 Mile
+https://vistaradio.streamb.live/SB00074
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvLe5lr.png" group-title="Vista Radio",CKQR 99.3 FM The GOAT - Castlegar
+https://vistaradio.streamb.live/SB00085
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFZN 93.5 FM Moose FM  - Haliburton
+https://vistaradio.streamb.live/SB00113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CKNR 94.1 FM Moose FM - Elliot Lake
+https://vistaradio.streamb.live/SB00098
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CHMS 97.7 FM Moose FM - Bancroft
+https://vistaradio.streamb.live/SB00110
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CHPB 98.1 FM Moose FM - Cochrane
+https://vistaradio.streamb.live/SB00103
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CJJM 99.3 FM Moose FM - Espanala
+https://vistaradio.streamb.live/SB00099
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFSF 99.3 FM Moose FM - Sturgeon Falls
+https://vistaradio.streamb.live/SB00102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFBG 99.5 FM Moose FM - BraceBridge
+https://vistaradio.streamb.live/SB00115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CKAP 100.9 FM Moose FM - Kapuskasing
+https://vistaradio.streamb.live/SB00104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CKLP 103.3 FM Moose FM - Parry Sound
+https://vistaradio.streamb.live/SB00114
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFBK 105.5 FM Moose FM - Huntsville
+https://vistaradio.streamb.live/SB00116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFXN 106.3 FM Moose FM - North Bay
+https://vistaradio.streamb.live/SB00100
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CFBV 106.5 FM Moose FM - Smithers & The Bulkley Valley
+https://vistaradio.streamb.live/SB00077
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CHMT 93.1 FM Country FM - Timmins
+https://vistaradio.streamb.live/SB00105
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CFCH 90.5 FM Country FM - North Bay
+https://vistaradio.streamb.live/SB00101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CJCI 97.3 FM Country FM - Prince Georges
+https://vistaradio.streamb.live/SB00040
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CFNA 99.7 FM Country FM - Lakeland
+https://vistaradio.streamb.live/SB00089
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CKCQ 570 AM / 100.3 FM Country - William Lake/Quesnel
+https://vistaradio.streamb.live/SB00071
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzjQW6Q.png" group-title="Vista Radio",CKBX 840 AM Country  - 100 Mile House
+https://vistaradio.streamb.live/SB00073
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuONOfu.png" group-title="Vista Radio",CKBD 98.1 FM 2day FM - Lethbridge
+https://vistaradio.streamb.live/SB00094
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuONOfu.png" group-title="Vista Radio",CFRI 104.7 FM 2Day FM - Grande Prairie
+https://vistaradio.streamb.live/SB00091
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuONOfu.png" group-title="Vista Radio",CHGK 107.7 FM 2Day FM - Stratford
+https://vistaradio.streamb.live/SB00106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BuONOfu.png" group-title="Vista Radio",CFSM 107.5 FM 2day FM - Cranbrook
+https://vistaradio.streamb.live/SB00075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqJ3kKL.png" group-title="Vista Radio",CJSU 89.7 FM Juice FM - Cowichan Valley
+https://vistaradio.streamb.live/SB00080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqJ3kKL.png" group-title="Vista Radio",CKCV 94.1 FM Juice FM - Creston
+https://vistaradio.streamb.live/SB00087
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqJ3kKL.png" group-title="Vista Radio",CJCS 107.1 FM Juice FM - Stratford
+https://vistaradio.streamb.live/SB00107
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CKVV 97.5 FM Juice FM - Kemptville
+https://vistaradio.streamb.live/SB00108
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keXuMIe.png" group-title="Vista Radio",CKAY 91.7 FM Coast FM - Sechelt & The Sunshine Coast
+https://vistaradio.streamb.live/SB00081
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keXuMIe.png" group-title="Vista Radio",CFNI 1240 AM Coast - Port Hardy & The Tri-Port Area
+https://vistaradio.streamb.live/SB00083
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keXuMIe.png" group-title="Vista Radio",CFPW 95.7 FM Coast FM - Powell River
+https://vistaradio.streamb.live/SB00082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFKWfuV.png" group-title="Vista Radio",CKPP 107.9 FM Coast FM  - Prescott
+https://vistaradio.streamb.live/SB00111
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfrQLvP.png" group-title="Vista Radio",CFCP 98.9 FM Jet FM - Courtenay
+https://vistaradio.streamb.live/SB00079
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7DoTXN.png" group-title="Vista Radio",CHNV 103.5 FM The Bridge - Nelson
+https://vistaradio.streamb.live/SB00086
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y86V9Uk.png" group-title="Vista Radio",CJOC 94.1 FM CJOC Classic Hits - Lethbridge
+https://vistaradio.streamb.live/SB00093
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shbsUg0.png" group-title="Vista Radio",CJLT 93.7 FM Praise FM - Medicine Hat
+https://vistaradio.streamb.live/SB00092
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apDs8tm.png" group-title="Vista Radio",CJCD 100.1 FM True North - Yellowknife
+https://vistaradio.streamb.live/SB00088
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4JZV8e.png" group-title="Vista Radio",CIQC 99.7 FM The River - Campbell River
+https://vistaradio.streamb.live/SB00078
+
+####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nxupGr.png" group-title="Bell Media Radio",CJAY Rock 92.1 FM - Calgary | AB
+https://24963.live.streamtheworld.com/CJAYFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4R4ySr.png" group-title="Bell Media Radio",CFBR The Bear Rocks 100.3 FM - Edmonton | AB
+https://18313.live.streamtheworld.com/CFBRFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6AAl2b.png" group-title="Bell Media Radio",CKFR News Talk 1150 AM - Kelowna | BC
+https://16613.live.streamtheworld.com/CKFRAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fwxNXoQ.png" group-title="Bell Media Radio",CJBK News Talk 1290 AM - London | ON
+https://24233.live.streamtheworld.com/CJBKAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koRmN4R.png" group-title="Bell Media Radio",CHOM FM 97.7 FM - Montreal | QC 
+https://27033.live.streamtheworld.com/CHOMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toiAJBB.png" group-title="Bell Media Radio",CJAD News Talk 800 AM - Montreal | QC 
+https://24403.live.streamtheworld.com/CJADAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2qDqTjE.png" group-title="Bell Media Radio",CKLW News Talk 800 AM - Windsor | ON
+https://26233.live.streamtheworld.com/CKLWAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S15waaZ.png" group-title="Bell Media Radio",CKWW Motor City Favorites 580 AM - Windsor | ON
+https://15053.live.streamtheworld.com/CKWWAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nC8RhKX.png" group-title="Bell Media Radio",CFAX News Talk 1070 AM - Victoria | BC 
+https://19793.live.streamtheworld.com/CFAXAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgFM8xF.png" group-title="Bell Media Radio",CHUM CHUM-FM 104.5 FM - Toronto | ON
+https://26313.live.streamtheworld.com/CHUMFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fah3HS.png" group-title="Bell Media Radio",CFRB News Talk 1010 AM - Toronto | ON
+https://18123.live.streamtheworld.com/CFRBAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82c9mxS.png" group-title="Bell Media Radio",CHTZ Best Rock 97.7 FM - St. Catharines | ON
+https://24423.live.streamtheworld.com/CHTZFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7Roy0B.png" group-title="Bell Media Radio",CKTB News Talk 610 AM - St. Catharines | ON 
+https://24423.live.streamtheworld.com/CKTBAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI4lrXJ.png" group-title="Bell Media Radio",CFRA News Talk 580 AM - Ottawa | ON 
+https://24223.live.streamtheworld.com/CFRAAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMdXUY5.png" group-title="Bell Media Radio",CKOC BNN Bloomberg Radio 1150 AM - Hamilton | ON
+https://18183.live.streamtheworld.com/CKOCAMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA3EFSO.png" group-title="Bell Media Radio",CFTE BNN Bloomberg Radio 1410 AM - Vancouver | BC
+https://19273.live.streamtheworld.com/CFTEAMAAC.aac
+
+
+
+
+# https://www.iheartradio.ca/boom/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E8r5Lfx.png" ,[COLOR gold]Boom FM[/COLOR]
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IaJTIQ.png" group-title="Bell Media Radio",CFEI Boom 106.5 FM - Saint-Hyacinthe | QC
+https://14833.live.streamtheworld.com/CFEIFMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnTwqvE.png" group-title="Bell Media Radio",CFZZ Boom 104.1 FM - Saint-Jean-sur-Richelieu | QC
+https://18193.live.streamtheworld.com/CFZZFMAAC.aac
+
+
+
+
+
+
+
+
+
+

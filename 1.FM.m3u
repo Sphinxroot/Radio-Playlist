@@ -1,0 +1,159 @@
+#EXTM3U
+
+#### Made By Sphinxroot QC ####
+
+# Web Site : https://www.1.fm/stations   
+# For Image  = Zoom page , Snip , resize 300x300 , upload 
+# Stream url : https://strm112.1.fm/CHANNELNAME_mobile_mp3 http://prmstrm.1.fm:8000/CHANNELNAME
+# Icecast2 Status :  http://prmstrm.1.fm:8000/ 
+# Info : Free Online Radio, Listen to your favorite music genres like Chillout, Trance, Dance, 80s, 90s, 60s, dubstep, psytrance, techno and much more.
+# https://www.1.fm/aboutus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzEs9qj.png" ,★★★★★★★★★★1.FM★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUEDbTh.png" group-title="Radio",1.FM - 00s Hip Hop
+http://prmstrm.1.fm:8000/club
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PH9PRFP.png" group-title="Radio",1.FM - 90s Alternative
+http://prmstrm.1.fm:8000/partyzone90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cO8GSRr.png" group-title="Radio",1.FM - 90s Hip Hop
+http://prmstrm.1.fm:8000/spanishtophits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2J4ltr.png" group-title="Radio",1.FM - 90s RnB
+http://prmstrm.1.fm:8000/slowjamz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIL4dIr.png" group-title="Radio",1.FM - 2010s
+http://prmstrm.1.fm:8000/acpl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/509yj4a.png" group-title="Radio",1.FM - A List 80s
+http://prmstrm.1.fm:8000/back280s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XB0Lwwd.png" group-title="Radio",1.FM - Absolute 70's Pop
+http://prmstrm.1.fm:8000/70s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FhrTWf.png" group-title="Radio",1.FM - Absolute 90's
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XIVAaH.png" group-title="Radio",1.FM - Absolute Pop Latino
+http://prmstrm.1.fm:8000/latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbSiUnL.png" group-title="Radio",1.FM - Absolute Trance (Euro)
+http://prmstrm.1.fm:8000/trance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzuqoiR.png" group-title="Radio",1.FM - Adore Jazz
+http://prmstrm.1.fm:8000/ajazz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wliHUWU.png" group-title="Radio",1.FM - Afterbeat Electronica
+http://prmstrm.1.fm:8000/electronica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stFGslI.png" group-title="Radio",1.FM - All Euro 80's
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhX9Loz.png" group-title="Radio",1.FM - Alternative Rock X Hits
+http://prmstrm.1.fm:8000/x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECH0Ccz.png" group-title="Radio",1.FM - Always Christmas
+http://prmstrm.1.fm:8000/christmas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbhsGGe.png" group-title="Radio",1.FM - Ambient Psychill
+http://prmstrm.1.fm:8000/ambientpsy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vQKQ2VF.png" group-title="Radio",1.FM - Amsterdam Trance
+http://prmstrm.1.fm:8000/atr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KBzQzAk.png" group-title="Radio",1.FM - Back To The 50's & 60's
+http://prmstrm.1.fm:8000/60s_70s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDjiZJj.png" group-title="Radio",1.FM - Baroque
+http://prmstrm.1.fm:8000/baroque
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zeyv7b.png" group-title="Radio",1.FM - Bay Smooth Jazz
+http://prmstrm.1.fm:8000/smoothjazz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RWypAd2.png" group-title="Radio",1.FM - Beloved Ballads
+http://prmstrm.1.fm:8000/onelive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUUnoyv.png" group-title="Radio",1.FM - Blues
+http://prmstrm.1.fm:8000/blues
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xx1msH.png" group-title="Radio",1.FM - BOM Psytrance
+http://prmstrm.1.fm:8000/psytrance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1vtNF4.png" group-title="Radio",1.FM - Bombay Beats India
+http://prmstrm.1.fm:8000/bombaybeats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fO32Bh.png" group-title="Radio",1.FM - Bop & Vibes
+http://prmstrm.1.fm:8000/spanishparty
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxmA1C7.png" group-title="Radio",1.FM - Bossa Nova Hits
+http://prmstrm.1.fm:8000/bossanova
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AFWnvO.png" group-title="Radio",1.FM - Brazilian Birds
+http://prmstrm.1.fm:8000/brazilianbirds
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVnk2wJ.png" group-title="Radio",1.FM - Cafe
+http://prmstrm.1.fm:8000/caferadio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0yrgJp.png" group-title="Radio",1.FM - Calming Piano
+http://prmstrm.1.fm:8000/gospel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwQAu8S.png" group-title="Radio",1.FM - Chillout Lounge
+http://prmstrm.1.fm:8000/chilloutlounge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZzmBR7.png" group-title="Radio",1.FM - Circuit Pride
+http://prmstrm.1.fm:8000/circuitpride
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8C9qjDC.png" group-title="Radio",1.FM - Classic Country
+http://prmstrm.1.fm:8000/ccountry
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QLtdjG.png" group-title="Radio",1.FM - Classic Rock
+http://prmstrm.1.fm:8000/crock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7o3ejVE.png" group-title="Radio",1.FM - Comfort Pop
+http://prmstrm.1.fm:8000/top40ballads
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBnyKY9.png" group-title="Radio",1.FM - Contemporary Christian
+http://prmstrm.1.fm:8000/praise
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNuou0z.png" group-title="Radio",1.FM - Costa Del Mar
+http://prmstrm.1.fm:8000/costadelmarchillout
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5y3g8b.png" group-title="Radio",1.FM - Country Range
+http://prmstrm.1.fm:8000/country
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRIDpSb.png" group-title="Radio",1.FM - Dance One
+http://prmstrm.1.fm:8000/dance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLR4Y6S.png" group-title="Radio",1.FM - Deep House
+http://prmstrm.1.fm:8000/deephouse
+#EXTINF:-1 tvg-logo="https://i.imgur.com/emTS13i.png" group-title="Radio",1.FM - Deep Techno & Tech House
+http://prmstrm.1.fm:8000/deeptech
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zh9TVI7.png" group-title="Radio",1.FM - Disco Ball 70's-80's
+http://prmstrm.1.fm:8000/disco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRpWE5Z.png" group-title="Radio",1.FM - Essential Classical
+http://prmstrm.1.fm:8000/polskafm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoGhJi.png" group-title="Radio",1.FM - Funky Express
+http://prmstrm.1.fm:8000/funkyexpress
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25tF8EC.png" group-title="Radio",1.FM - Gorilla FM
+http://prmstrm.1.fm:8000/gorillafm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCEXdId.png" group-title="Radio",1.FM - High Speed
+http://prmstrm.1.fm:8000/dubstep
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XbNwWS.png" group-title="Radio",1.FM - High Voltage
+http://prmstrm.1.fm:8000/highvoltage
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBFpRH8.png" group-title="Radio",1.FM - Hot Country
+http://prmstrm.1.fm:8000/acountry
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjhR7Mo.png" group-title="Radio",1.FM - Italia On Air
+http://prmstrm.1.fm:8000/italiaonair
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N0vrsGX.png" group-title="Radio",1.FM - Kids FM
+http://prmstrm.1.fm:8000/kidsfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lux2B7x.png" group-title="Radio",1.FM - Love Classics
+http://prmstrm.1.fm:8000/loveclassics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BW7Jbe1.png" group-title="Radio",1.FM - Magic 80
+http://prmstrm.1.fm:8000/magic80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jveXqL5.png" group-title="Radio",1.FM - Millennial Nostalgia
+http://prmstrm.1.fm:8000/eurovision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1odYKEW.png" group-title="Radio",1.FM - Movie Soundtrack Hits
+http://prmstrm.1.fm:8000/moviesoundtracks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vebtFOJ.png" group-title="Radio",1.FM - MPB Hits Radio
+http://prmstrm.1.fm:8000/mpb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3DZOu1.png" group-title="Radio",1.FM - Otto's Classical Music
+http://prmstrm.1.fm:8000/classical
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IibFHPM.png" group-title="Radio",1.FM - Otto's Opera House Music
+http://prmstrm.1.fm:8000/opera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXxPhmZ.png" group-title="Radio",1.FM - Our N B
+http://prmstrm.1.fm:8000/oldschool
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8WJ9nI.png" group-title="Radio",1.FM - Gaia
+http://prmstrm.1.fm:8000/radiogaia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNiV0Ii.png" group-title="Radio",1.FM - Rap Pregame
+http://prmstrm.1.fm:8000/edm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bfWLXR.png" group-title="Radio",1.FM - Reggae
+http://prmstrm.1.fm:8000/reggae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGYhxC9.png" group-title="Radio",1.FM - Reggaeton Heat
+http://prmstrm.1.fm:8000/reggaeton
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVkugKA.png" group-title="Radio",1.FM - RnB Love Songs
+http://prmstrm.1.fm:8000/spanisholdies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IgBHRo.png" group-title="Radio",1.FM - Rock Classics
+http://prmstrm.1.fm:8000/rockclassics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqVnmQD.png" group-title="Radio",1.FM - Samba Hits Brazil
+http://prmstrm.1.fm:8000/samba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mHdZEin.png" group-title="Radio",1.FM - Samba Rock
+http://prmstrm.1.fm:8000/sambarock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNos8jV.png" group-title="Radio",1.FM - Sax4Love
+http://prmstrm.1.fm:8000/sax4ever
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arsOW6X.png" group-title="Radio",1.FM - Sertaneja Hits
+http://prmstrm.1.fm:8000/sertanejo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pWmCz2n.png" group-title="Radio",1.FM - SPA
+http://prmstrm.1.fm:8000/spa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cdt1Z9y.png" group-title="Radio",1.FM - Sunshine
+http://prmstrm.1.fm:8000/allmixedup
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ty8VT48.png" group-title="Radio",1.FM - Top 40
+http://prmstrm.1.fm:8000/top40
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZxxTwB.png" group-title="Radio",1.FM - Top Rap
+http://prmstrm.1.fm:8000/jamz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4CFMvb.png" group-title="Radio",1.FM - Tropical House
+http://prmstrm.1.fm:8000/ibizachill
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bah6qrr.png" group-title="Radio",1.FM - Y2K
+http://prmstrm.1.fm:8000/hits2000

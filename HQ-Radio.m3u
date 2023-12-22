@@ -1,0 +1,531 @@
+#EXTM3U
+#### Made By Sphinxroot QC ####
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64P3H5D.jpg",★★★★★★★★★★[COLOR gold]Hi-Res Internet Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+###################################
+# Template: 
+# #EXTINF:-1 tvg-logo="" group-title="HQ Radio",
+# Sources : 
+# https://www.hiresaudio.online/cd-quality-internet-radio/
+# https://www.24bit96.com/24bit96khz-download-sites/hd-internet-radio-streams.html
+# https://dir.xiph.org/search?q=flac http://www.radiofeeds.co.uk/hifi.asp
+
+###################################
+
+# https://440hz-radio.de/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yxApy3.png" group-title="HQ Radio",440Hz Radio
+https://stream.440hz-radio.de/440hz-low.opus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yxApy3.png" group-title="",440Hz Radio Studio Cam
+https://webcam.440hz-radio.de/hls/440HzStudio.m3u8
+
+# https://60north.radio/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jEU3NqW.jpg" group-title="HQ Radio",60North Radio
+http://r5.zetcast.net/flac
+
+# https://95bfm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/er2X6hO.png" group-title="HQ Radio",95bFM
+http://streams.95bfm.com:80/stream112
+
+# http://stream.972.fm/hifi/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1isO889.png" group-title="HQ Radio",Antena Zadar – 97.2 FM
+http://stream.972.fm/hifi/
+
+# https://bailriggradio.lancastersu.co.uk/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMGBJS7.png" group-title="HQ Radio",Bailrigg 95.3FM
+https://bfm-stream.lancs.ac.uk/flac
+
+# https://bestehits.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhiQFYK.jpg" group-title="HQ Radio",BesteHits.NL - Jukebox
+http://luister.bestehits.nl:8000/flac
+
+# https://bdpstrock.hu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cfq6nsi.png" group-title="HQ Radio",BDPST ROCK
+https://s2.audiostream.hu/bdpstrock_FLAC
+
+# No Web Site
+#EXTINF:-1 tvg-logo="no-logo.png" group-title="HQ Radio",BesideFM
+http://besidefm.ga:8000/stream
+
+# https://www.c9.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsmOIkZ.png" group-title="HQ Radio",C9 Radio
+http://s3n0.khot.gdn:80/c9radio-flac.ogg
+
+# https://www.calamarrradio.org/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLtq7YF.png" group-title="HQ Radio",Calamar Rradio
+http://www.calamarrradio.org:8000/stream
+
+# https://calon.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3ID1SZ.png" group-title="HQ Radio",Calon FM
+https://stream.calon.fm:8000/flac
+
+# https://chillout.zone/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AskxZkr.png" group-title="HQ Radio",Chill In Zone Plus
+https://chillout.zone/chillin_plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AskxZkr.png" group-title="HQ Radio",Chill Out Zone Plus
+https://chillout.zone/chillout_plus
+
+# https://chiru.no/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLgxZAU.jpg" group-title="HQ Radio",chiru.no
+https://chiru.no/highres.flac
+https://chiru.no/stream.flac
+
+# https://www.cityradio.cl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/raTd1mM.jpg" group-title="HQ Radio",City Radio
+http://cityradio.ddns.net:8000/cityradio48flac
+
+# https://media.azpm.org/master/doc/stream/classical-flac.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMB4LJt.png" group-title="HQ Radio",Classical 90.5 Tucson
+https://hls.azpm.org/t-fmp4/FLAC/KUAT_FLAC.m3u8
+
+# https://www.cno-radio.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQ3RqwR.png" group-title="HQ Radio",Cno Radio
+http://master.net-radio.fr:80/cno-dab
+
+# https://d-dur.rozhlas.cz/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5NaXa.png" group-title="HQ Radio",Czech Radio CRo D-dur
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+# https://jazz.rozhlas.cz/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5NaXa.png" group-title="HQ Radio",Czech Radio CRo Jazz
+http://amp.cesnet.cz:8000/cro-jazz.flac
+# https://wave.rozhlas.cz/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5NaXa.png" group-title="HQ Radio",Czech Radio CRo Radio Wave
+http://amp.cesnet.cz:8000/cro-radio-wave.flac
+# https://vltava.rozhlas.cz/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kk5NaXa.png" group-title="HQ Radio",Czech Radio CRo Vltava
+http://amp.cesnet.cz:8000/cro3.flac
+
+# https://dancewave.online/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/134PKfb.png" group-title="HQ Radio",Dance Wave Main Channel
+http://dancewave.online/dance.flac.ogg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTLZfjX.png" group-title="HQ Radio",Dance Wave Retro Channel
+https://retro.dancewave.online/retrodance.flac.ogg
+
+# https://bdpstrock.hu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otLFEPf.png" group-title="HQ Radio",Danubius Radio
+https://stream.danubiusradio.hu/danubius_HiFi
+
+# https://easyradio.bg/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6czehqp.png" group-title="HQ Radio",EasyRadio
+http://live.easyradio.bg/flac
+
+# https://www.foreverlaradio.fr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqJ1skw.png" group-title="HQ Radio",ForEver La Radio - Arcachon
+http://stream.sweetfm.fr:8000/flac-forever-arc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqJ1skw.png" group-title="HQ Radio",ForEver La Radio - Bordeaux
+http://stream.sweetfm.fr:8000/flac-forever-bdx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqJ1skw.png" group-title="HQ Radio",ForEver La Radio - Le Mans
+http://stream.sweetfm.fr:8000/dab-forever-lms
+
+# https://freemusicradio.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6YLaAy.png" group-title="HQ Radio",Free Music Radio
+http://stream.freemusicradio.nl:8100/stream.oga
+
+# https://www.frequence3.com/ https://www.frequence3.com/howlisten/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75kqA2S.png" group-title="HQ Radio",Frequence 3
+https://frequence3.net-radio.fr/frequence3.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zObZHTi.png" group-title="HQ Radio",Frequence 3 Dance
+https://frequence3.net-radio.fr/frequence3dance.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tjsZJZ.png" group-title="HQ Radio",Frequence 3 Gold
+https://frequence3.net-radio.fr/frequence3gold.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9vD3ICl.png" group-title="HQ Radio",Frequence 3 Urban
+https://frequence3.net-radio.fr/frequence3urban.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGIBEbj.png" group-title="HQ Radio",Frequence 3 World
+https://frequence3.net-radio.fr/frequence3world.flac
+
+# https://futura.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzqYeWu.jpg" group-title="HQ Radio",Futura.FM
+https://futura.fm/stream.ogg
+
+# https://ggrn.de/wordpress/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGpGPq2.png" group-title="HQ Radio",GGRN (Global German Radio Network)
+http://ggrn.de:8040/ggrn.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGpGPq2.png" group-title="HQ Radio",GGRN (Global German Radio Network) CAM
+https://web.zapf2000.de:8888/ggrn/index.m3u8
+
+# http://www.h2oradio.fr/index.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6Tn2Ki.png" group-title="HQ Radio",H2O Radio Chambéry | Aix
+http://master.net-radio.fr:80/h2o-chambery-dab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsekZya.png" group-title="HQ Radio",H2O Radio Grand Annecy
+http://master.net-radio.fr:80/h2o-annecy-dab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcoMDRE.png" group-title="HQ Radio",H2O Radio Lac d'Annecy
+http://master.net-radio.fr:80/h2oradio.flac
+
+# https://www.hionline.eu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5ceRH2.png" group-title="HQ Radio",Hi On Line Radio
+http://mscp2.live-streams.nl:8100/flac.flac
+
+# http://insanityradio.com/listen/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI49Y3Q.png" group-title="HQ Radio",Insanity Radio
+http://stream.cor.insanityradio.com/insanity_unprocessed.flac
+
+# https://www.intenseradio.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Jxj9Vw.png" group-title="HQ Radio",Intense Radio
+https://secure.live-streams.nl/flac.flac
+
+# https://www.jamminvibezradio.com/live-radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUvhpjQ.png" group-title="HQ Radio",Jammin Vibez Radio - Reggae Classic Hits Radio
+https://azuracast.jammimvibez.com/listen/reggae/live.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUvhpjQ.png" group-title="HQ Radio",Jammin Vibez Radio - Caribbean Variety Radio
+https://azuracast.jammimvibez.com/listen/caribbean/live.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUvhpjQ.png" group-title="HQ Radio",Jammin Vibez Radio - Caribbean Christmas Radio
+https://azuracast.jammimvibez.com/listen/christmas/live.flac
+
+# https://jb-radio.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JTTRk7s.png" group-title="HQ Radio",JB Radio2
+https://maggie.torontocast.com:8076/flac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JTTRk7s.png" group-title="HQ Radio",JB Radio
+http://vmi848759.contaboserver.net:8889/flac
+
+# http://joyhits.online/index.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSubsw3.png" group-title="HQ Radio",Joyhits
+http://joyhits.online/joyhits.flac.ogg
+
+# https://www.juiceonair.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxOs796.png" group-title="HQ Radio",Juice 1038
+http://stream.stormtx.co.uk:8009/juice-lossless
+
+# https://bdpstrock.hu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J3YT9mn.jpg" group-title="HQ Radio",Juventus Radio
+https://s2.audiostream.hu/juventus_FLAC
+
+# https://kpfa.org/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abnT0XD.png" group-title="HQ Radio",KPFA 94.1FM Berkeley
+https://streams.kpfa.org/kpfa_16
+
+# https://kfre.us/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jm8YgRj.jpg" group-title="HQ Radio",K-Free
+https://kfre.s3.amazonaws.com/truehd/FLAC/program.m3u8
+
+# https://lapfoxradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYK2asd.png" group-title="HQ Radio",LapFox Radio
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+
+# https://lamer.live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7p9mg42.png" group-title="HQ Radio",La Radio de la Mer
+https://streaming.lamer.live/laradiodelamer-uhd.flac
+
+# https://c11.radioboss.fm/u/93
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXhvIS6.jpg" group-title="HQ Radio",La SuperSonica
+http://c11.radioboss.fm:8093/stream
+
+# https://www.lesonparisien.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tqqtYZ.png" group-title="HQ Radio",Le Son Parisien
+http://stream.lesonparisien.com:80/live.flac
+
+# https://www.urbanrevolution.es/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ANuuTmQ.png" group-title="HQ Radio",La Urban Radio
+http://st1.urbanrevolution.es:8000/zonaelectronica
+
+# http://luciferfm.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9UqR6I.png" group-title="HQ Radio",Lucifer FM
+http://gnoenet.nl/radio/8000/luciferflac.mp3
+
+# https://www.magic-radio.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1f40rv.png" group-title="HQ Radio",Magic Radio
+http://flac.magic-radio.net/flac
+http://mp3.magic-radio.net/flac
+
+# https://www.maxradiosociety.ca/
+# https://www.maxradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNbeXdD.png" group-title="HQ Radio",Max Radio Society - Max Radio
+https://www.maxradio.ca/UHD/MaxRadioSurround/512k/Max.m3u8
+# https://www.lg73.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzfO5kj.png" group-title="HQ Radio",Max Radio Society - LG73
+https://www.maxradio.ca/UHD/LG73Surround/512k/LG73.m3u8
+# https://www.newwestrock.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nHoXP6.png" group-title="HQ Radio",Max Radio Society - New West Rock
+https://www.maxradio.ca/UHD/NewWestRockSurround/512k/NewWestRock.m3u8
+# https://www.uptownradio.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLAmDWU.png" group-title="HQ Radio",Max Radio Society - Uptown Radio
+https://www.maxradio.ca/UHD/UptownSurround/512k/Uptown.m3u8
+
+# https://www.maxxima.org/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/638qAo2.png" group-title="HQ Radio",MaXXima
+http://maxxima.mine.nu:8000/maxx.ogg
+
+# http://motherearthradio.de/index.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H74OfdZ.png" group-title="HQ Radio",Mother Earth Radio
+http://server9.streamserver24.com:18900/motherearth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H74OfdZ.png" group-title="HQ Radio",Mother Earth Klassik
+http://server9.streamserver24.com:18910/motherearth.klassik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H74OfdZ.png" group-title="HQ Radio",Mother Earth Instrumental
+http://server9.streamserver24.com:18920/motherearth.instrumental
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H74OfdZ.png" group-title="HQ Radio",Mother Earth Jazz
+https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz
+
+# https://www.hiresaudio.online/naim-radio/ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCGG3PP.png" group-title="HQ Radio",Naim Classical
+http://mscp3.live-streams.nl:8250/class-flac.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCGG3PP.png" group-title="HQ Radio",Naim Classical
+https://mscp3.live-streams.nl:8252/class-flac.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xu2wyh.png" group-title="HQ Radio",Naim Jazz
+http://mscp3.live-streams.nl:8340/jazz-flac.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xu2wyh.png" group-title="HQ Radio",Naim Jazz
+https://mscp3.live-streams.nl:8342/jazz-flac.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8cdfg6.png" group-title="HQ Radio",Naim Radio
+http://mscp3.live-streams.nl:8360/flac.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8cdfg6.png" group-title="HQ Radio",Naim Radio
+https://mscp3.live-streams.nl:8362/flac.flac
+
+# https://onj.me/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNoimzl.jpg" group-title="HQ Radio",Onj's TV
+http://2.onj.me:8000/tv.flac
+
+# https://www.openbroadcast.ch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L7QxkT9.png" group-title="HQ Radio",Open Broadcast
+http://stream.openbroadcast.org/openbroadcast.flac
+
+# https://opensky.radio/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Jtx4TZ.png" group-title="HQ Radio",OpenSky Radio
+https://audio.opensky.radio:8082/flac?_res_tag_=audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Jtx4TZ.png" group-title="HQ Radio",OpenSky Radio Live
+https://audio.opensky.radio:8082/live_flac?_res_tag_=audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Jtx4TZ.png" group-title="HQ Radio",OpenSky Radio oise
+https://audio.opensky.radio:8082/live_oise_flac
+
+# http://periszkopradio.hu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovUCJJp.jpg" group-title="HQ Radio",Periscope Radio
+http://mumia.periszkopradio.hu:8050/periszkop.ogg
+
+# https://p-node.org/piano/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDtWxBo.png" group-title="HQ Radio",Pi ano
+http://stream.p-node.org/piano
+
+# https://piratenkanon.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YE3E29J.jpg" group-title="HQ Radio",PirateKanon.FM
+http://radio.stream-online.eu:10900/flac
+
+# https://punkrockers-radio.de/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NM8vJmu.png" group-title="HQ Radio",Punkrockers Radio
+http://stream.punkrockers-radio.de:8000/prr.flac
+
+# https://www.pureclassix.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZInOnDU.png" group-title="HQ Radio",PureClassix
+http://mscp4.live-streams.nl:8140/flac.ogg
+
+# https://www.pureloungeradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qen0JwE.png" group-title="HQ Radio",Pure Lounge Radio
+https://mscp4.live-streams.nl:8142/lounge.ogg
+
+# https://pureradio.eu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - The Undergound Channel
+https://streamserver.pure-isp.eu/radio/8000/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Trance-Electro Channel
+https://streamserver.pure-isp.eu/radio/8020/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Hardcore Channel
+https://streamserver.pure-isp.eu/radio/8010/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - DownTempo Channel
+https://streamserver.pure-isp.eu/radio/8040/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Live Party Channel
+https://streamserver.pure-isp.eu/radio/8060/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Dance Channel
+https://streamserver.pure-isp.eu/radio/8030/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - DJ R.I.P.’s Podcast
+https://streamserver.pure-isp.eu/radio/8050/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Various Channel
+https://streamserver.pure-isp.eu/radio/8070/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GbrCoo.png" group-title="HQ Radio",Pure Radio Holland - Rap & HIP-HOP Channel
+https://streamserver.pure-isp.eu/radio/8100/flac
+
+# https://www.radio90.fm/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yt3ymHS.jpg" group-title="HQ Radio",Radio 90FM Valencia
+http://stream.radio90.fm:2000/stream
+
+# https://www.radioduepuntozero.it/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q77n0GO.png" group-title="HQ Radio",Radio 2.0
+https://vps.radioduepuntozero.it/stream.ogg
+
+# http://radio.audiomastering.lt/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVu72ds.jpg" group-title="HQ Radio",Radio Audiomastering
+http://radio.audiomastering.lt:8000/pure
+
+# https://biasradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCndCIL.png" group-title="HQ Radio",Radio Bias
+https://admin.biasradio.com/radio/8000/flac
+
+# https://bluesflac.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1TgMmNG.png" group-title="HQ Radio",Radio BluesFlac
+https://streams.radiomast.io/radioblues-flac
+
+# https://teamsoftdigital.com/radioclub80/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcwYG3w.png" group-title="HQ Radio",Radio Club 80 Retro
+http://radio.streaminghires.cl:8006/live.flac
+EXTINF:-1 tvg-logo="https://i.imgur.com/BcwYG3w.png" group-title="HQ Radio",Radio Club Oldies (OFFLINE)
+http://ecuamedios.net:8050/stream/flac
+EXTINF:-1 tvg-logo="https://i.imgur.com/BcwYG3w.png" group-title="HQ Radio",Radio Hits (OFFLINE)
+http://ecuamedios.net:8022/radiohits/Lossless
+
+# https://www.radio-calico.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfYU1wj.png" group-title="HQ Radio",Radio Calico
+http://roon.radio-calico.com:8000/roon
+http://radio3.radio-calico.com:8080/calico
+
+# https://radioh.no/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BSzFLbo.jpg" group-title="HQ Radio",Radio Haugaland
+http://radioip.no:443/flac
+
+# https://radiokemonia.it/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zckpdM.png" group-title="HQ Radio",Radio Kemonia
+http://kemoniastreaming2.net:8060/stream
+
+# https://radioparadise.com/listen/stream-links
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZyvA6Yo.jpg" group-title="HQ Radio",Radio Paradise Main Mix
+http://stream.radioparadise.com/flacm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9U44TuW.jpg" group-title="HQ Radio",Radio Paradise Mellow Mix
+http://stream.radioparadise.com/mellow-flacm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MedWjXX.jpg" group-title="HQ Radio",Radio Paradise Rock Mix
+http://stream.radioparadise.com/rock-flacm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eL48975.jpg" group-title="HQ Radio",Radio Paradise World Mix
+http://stream.radioparadise.com/world-etc-flacm
+
+# http://www.radiosputnik.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFnSHct.png" group-title="HQ Radio",Radio Sputnik Underground!
+http://radiosputnik.nl:8002/flac
+
+# https://flacall.ru/
+#EXTINF:-1 tvg-logo="" group-title="HQ Radio",FLACALL Radio
+http://flacradio.ru:1120/stream
+#EXTINF:-1 tvg-logo="" group-title="HQ Radio",FLACALL Radio
+http://flacradio.ru:1130/stream
+
+# https://radioletofm.ru/online https://leto.flacall.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw9hHxh.png" group-title="HQ Radio",Radio Summer (Радио Лето)
+http://flacradio.ru:1110/stream
+
+# https://newhits.flacall.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bcK91T.png" group-title="HQ Radio",Hits Radio (Радио Хит@Ты)
+http://flacradio.ru:1070/stream
+
+# https://annushka.flacall.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdAtUUt.png" group-title="HQ Radio",Radio Annushka (Радио Аннушка)
+http://flacradio.ru:1090/stream
+
+# https://8marta.flacall.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5awgAgy.png" group-title="HQ Radio",International Women’s Radio March 8 (Радио 8 марта)
+http://flacradio.ru:1140/stream
+
+# https://www.radiowestnorfolk.co.uk/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WTC4eg.png" group-title="HQ Radio",Radio West Norfolk
+http://euk-85965.eukservers.com:8000/RWNFLAC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTGWk3b.png" group-title="HQ Radio",Radio X
+https://mp3.radiox.ch/standard.ogg
+
+# https://www.riversideradio.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjAmubT.png" group-title="HQ Radio",Riverside Radio
+https://stream.and-stuff.nl:8443/riverside24kb
+
+# https://www.rjrradio.fr/# http://stream.rjrradio.fr/index.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVxLqIT.png" group-title="HQ Radio",RJR - Radio Jeunes Reims 106.1 FM
+http://stream.rjrradio.fr:8000/rjr-dab.flac
+
+# https://rondo.fi/nettiradiot/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9h4ntjQ.png" group-title="HQ Radio",Rondo Klasu Classical
+http://iradio.fi:8000/klasu.flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9h4ntjQ.png" group-title="HQ Radio",Rondo Klasu Pro Classical
+http://rondo.iradio.fi:8000/klasupro.flac
+
+# https://roxyradio.hu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSw5P6Z.png" group-title="HQ Radio",Roxy Radio
+http://s2.audiostream.hu:8102/roxy_FLAC
+
+# https://www.sanctuaryradio.com/ https://www.twitch.tv/Sanctuary_Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tIehXct.jpg" group-title="HQ Radio",Sanctuary Radio - Dark Electro Channel
+http://66.94.113.88:8000/ultra_hq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tIehXct.jpg" group-title="HQ Radio",Sanctuary Radio - 80’s Alternative Channel
+http://66.94.113.88:8000/retro_ultra_hq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tIehXct.jpg" group-title="HQ Radio",Sanctuary Radio - Club Mix Channel
+http://66.94.113.88:8000/clubmix_ultra_hq
+
+# http://sectorradio.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iisbIKo.png" group-title="HQ Radio",Sector Radio 80s
+http://89.223.45.5:8000/geny-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1HodM4.png" group-title="HQ Radio",Sector Radio 90s
+http://89.223.45.5:8000/next-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acQFQca.png" group-title="HQ Radio",Sector Radio 10s
+http://89.223.45.5:8000/zed-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK91w0g.png" group-title="HQ Radio",Sector Radio 00s
+http://89.223.45.5:8000/indigo-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gk3Oz4.png" group-title="HQ Radio",Sector Radio Classical
+http://89.223.45.5:8000/nota-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSGZKe.png" group-title="HQ Radio",Sector Radio Progressive
+http://89.223.45.5:8000/progressive-flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upDUgfz.png" group-title="HQ Radio",Sector Radio Space
+http://89.223.45.5:8000/space-flac
+
+# http://www.sing-sing-bis.org/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHMaUiv.png" group-title="HQ Radio",Sing Sing
+http://stream.sing-sing-bis.org:8000/singsingFlac
+
+# https://somafm.com/logos/512/groovesalad512.png?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2LzFS3.png" group-title="HQ Radio",SomaFM - Groove Salad
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+
+# https://www.soulcityfm.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VPS8Xl.png" group-title="HQ Radio",Soul City FM
+http://euk-85965.eukservers.com:8000/soul
+
+# https://lesonunique.com/mysun/parcourir
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJ2E8nb.png" group-title="HQ Radio",Sun Radio
+http://diffusion.lafrap.fr:8000/sun.flac
+
+# http://www.superstereoradiochile.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYmCH8F.jpg" group-title="HQ Radio",SuperStereo 1 New Wave & Adult Pop
+http://198.204.228.202:8160/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AP9dFl7.jpg" group-title="HQ Radio",SuperStereo 2 Oldies 50s & 60s
+http://198.204.228.202:8157/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u6B66u.jpg" group-title="HQ Radio",SuperStereo 3 Pop Dance & House
+http://198.204.228.202:8539/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnbIPuw.jpg" group-title="HQ Radio",SuperStereo 4 Aor & Westcoast
+http://198.204.228.202:8030/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vl8dy4C.jpg" group-title="HQ Radio",SuperStereo 5 Adult Rock
+http://198.204.228.202:8643/flac5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRYH4VU.jpg" group-title="HQ Radio",SuperStereo 6 Instrumental Music
+http://198.204.228.202:8157/flac6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tw1hfes.png" group-title="HQ Radio",SuperStereo 7 Jazz
+http://198.204.228.202:8030/flac7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4MKdfu.png" group-title="HQ Radio",SuperStereo 8 Natural Sound For Audiophiles
+http://198.204.228.202:8643/SS8
+
+# https://thecheese.co.nz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/McBs2xj.jpg" group-title="HQ Radio",The Cheese
+http://thecheese.ddns.net:8004/stream
+
+# http://tsuiokuyo.ddns.net:8763/js_flat.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6cC6OO.png" group-title="HQ Radio",Tsuiokuyo’s Anime Music
+http://tsuiokuyo.ddns.net:8764/stream
+
+# https://w1d4.coixia.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkNkrJ3.png" group-title="HQ Radio",W1D4
+https://azura.coixia.com/listen/w1d4/hifi
+
+# https://www.zap.fm/en
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2d4HvXB.png" group-title="HQ Radio",Zap! FM
+https://zapstream.nl:8443/1
+
+# https://www.norbert.de/index.php?id=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9OqyTi.gif" group-title="HQ Radio",Zappa Stream Radio
+http://streams.norbert.de:8000/zappa.flac
+
+# https://www.zog.net.au/experimental-zog-internet-radio-station.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tf0MiwA.png" group-title="HQ Radio",Zog Radio
+http://icecast.zog.net.au:8000/source
+
+### (Offline) ###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWuaaFX.png" group-title="HQ Radio",80s Super Dance Floor (Offline)
+http://c30.radioboss.fm:8688/autodj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3j3rtaa.jpg" group-title="HQ Radio",80s 90s Super Pop Hits (Offline)
+http://c18.radioboss.fm:8405/autodj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOlauCV.jpg" group-title="HQ Radio",80s 90s Romantics (Offline)
+http://c2.radioboss.fm:8692/autodj
+
+# http://134.119.178.2:9000/
+EXTINF:-1 tvg-logo="no-logo.png" group-title="HQ Radio",24Music Radio (Offline)
+http://134.119.178.2:9000/live2
+
+# https://www.xradio.nl/ https://stream06.dotpoint.nl:8050/xradio
+EXTINF:-1 tvg-logo="https://i.imgur.com/Xk23eMS.png" group-title="HQ Radio",XRadio (Offline)
+http://stream06.dotpoint.nl:8050/xradio.flac
