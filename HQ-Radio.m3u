@@ -27,6 +27,12 @@ http://r5.zetcast.net/flac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/er2X6hO.png" group-title="HQ Radio",95bFM
 http://streams.95bfm.com:80/stream112
 
+# https://bailriggfm.co.uk/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="",95.3 Bailrigg FM
+https://bfm-stream.lancs.ac.uk/flac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="",95.3 Bailrigg FM
+https://bfm-stream.lancs.ac.uk/ENC-BLUE-flac
+
 # http://stream.972.fm/hifi/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1isO889.png" group-title="HQ Radio",Antena Zadar – 97.2 FM
 http://stream.972.fm/hifi/
