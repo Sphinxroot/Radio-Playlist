@@ -28,9 +28,9 @@ http://r5.zetcast.net/flac
 http://streams.95bfm.com:80/stream112
 
 # https://bailriggfm.co.uk/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="",95.3 Bailrigg FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="HQ Radio",95.3 Bailrigg FM
 https://bfm-stream.lancs.ac.uk/flac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="",95.3 Bailrigg FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9GvhPh.png" group-title="HQ Radio",95.3 Bailrigg FM
 https://bfm-stream.lancs.ac.uk/ENC-BLUE-flac
 
 # http://stream.972.fm/hifi/
