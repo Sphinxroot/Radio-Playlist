@@ -18,7 +18,7 @@ https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
 https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/christmas-chill_image600_gray_outline.png" radio="true" group-title="",Chrismas Chill
 https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/chil_image600_gray_outline.png" radio="true" group-title="",Chill-Out	
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/chil_image600_gray_outline.png" radio="true" group-title="",Chill-Out
 https://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/upload/stations_images/ruszima_image600_gray_outline.png" radio="true" group-title="",Рус­ская Зима
 https://hls-01-radiorecord.hostingradio.ru/record-ruszima/playlist.m3u8
