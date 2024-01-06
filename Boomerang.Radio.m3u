@@ -1,0 +1,51 @@
+#EXTM3U
+
+#### Made By Sphinxroot QC ####
+
+# https://boomerang.radio/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1gJY9X.png" group-title="",★★★★★★★★★★[COLOR gold]Boomerang Radio By YouRadio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1920s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/73747a7f-3d83-475a-a6c8-f250b864a181.png" radio="true" group-title="",Boomerang 1920s
+https://drive.uber.radio/uber/boomerang1920s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1930s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/cea8fa06-7117-4211-9309-82cbb698b902.png" radio="true" group-title="",Boomerang 1930s
+https://drive.uber.radio/uber/boomerang1930s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1940s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5918a6ff-4336-48e4-8931-0605c4e787e2.png" radio="true" group-title="",Boomerang 1940s
+https://drive.uber.radio/uber/boomerang1940s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1950s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/44667c8b-6ac7-45b9-97be-9cd17527825e.png" radio="true" group-title="",Boomerang 1950s
+https://drive.uber.radio/uber/boomerang1950s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1960s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/f336b8e9-591c-4fe5-8776-282797f088c9.png" radio="true" group-title="",Boomerang 1960s
+https://drive.uber.radio/uber/boomerang1960s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1970s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/8668e759-7cf0-4d84-99a8-487767e57ddb.png" radio="true"  group-title="",Boomerang 1970s
+https://drive.uber.radio/uber/boomerang1970s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1980s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c94c3aaa-f4e4-4458-b4ac-3b1f61c2d6c8.png" radio="true" group-title="",Boomerang 1980s
+https://drive.uber.radio/uber/boomerang1980s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_1990s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/4b28d5d8-2c4c-42fb-adae-68d6541a84a7.png" radio="true" group-title="",Boomerang 1990s
+https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_2000s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/19101f3f-f9b7-4aff-bb7e-374758b715b6.png" radio="true" group-title="",Boomerang 2000s
+https://drive.uber.radio/uber/boomerang2000s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_2010s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/cce5e526-6121-4377-9c4b-451fc2c362e8.png" radio="true" group-title="",Boomerang 2010s
+https://drive.uber.radio/uber/boomerang2010s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Boomerang_Boomerang_2020s
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/1351d873-efc0-46a5-ae97-ea7db562fa34.png" radio="true" group-title="",Boomerang 2020s
+https://drive.uber.radio/uber/boomerang2020s/icecast.audio
