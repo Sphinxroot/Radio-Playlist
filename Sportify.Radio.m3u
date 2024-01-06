@@ -1,0 +1,103 @@
+#EXTM3U
+
+#### Made By Sphinxroot QC ####
+
+# https://sportifyradio.world/genre/87
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQHzZZd.png" group-title="",★★★★★★★★★★[COLOR gold]Sportify Radio By YouRadio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Throwbacks_00s_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/1d01cd43-5aab-4972-a5f3-b4ab06cd2530.png" radio="true" group-title="",00'S THROWBACKS
+https://drive.uber.radio/uber/sportifythrowbacks00s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Throwbacks_80s_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c7aafb20-3cf1-4e01-a87c-f8b6030c49bb.png" radio="true" group-title="",80'S THROWBACKS
+https://drive.uber.radio/uber/sportifythrowbacks80s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Throwbacks_90s_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/9595622f-9dd8-40ec-aa72-d5aeb4c20323.png" radio="true" group-title="",90'S THROWBACKS
+https://drive.uber.radio/uber/sportifythrowbacks90s/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Aerobics_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/2edc33f9-7792-4b29-959e-2956879ab089.png" radio="true" group-title="",AEROBICS WORKOUT
+https://drive.uber.radio/uber/sportifyaerobics/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Afrobeats_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/30a0c77a-e005-4c8a-a1b8-907e80981d38.png" radio="true" group-title="",AFROBEATS WORKOUT
+https://drive.uber.radio/uber/sportifyafrobeats/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Alternative_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/b49eef28-bda5-4d2c-874f-ce7b0c90150b.png" radio="true" group-title="",ALTERNATIVE WORKOUT
+https://drive.uber.radio/uber/sportifyalternative/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Bollywood_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/8b629d55-6975-4258-a107-a24dfe883e2f.png" radio="true" group-title="",BOLLYWOOD WORKOUT
+https://drive.uber.radio/uber/sportifybollywood/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/04dec9b6-6e67-4450-ad21-84ced39df2dd.png" radio="true" group-title="",CARDIO WORKOUT 145 BPM
+https://drive.uber.radio/uber/sportifybpm145/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c70a5a15-5ca3-44e4-b912-f118d8a129fc.png" radio="true" group-title="",COOLDOWN 85 BPM
+https://drive.uber.radio/uber/sportifybpm85/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Dance_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c406c91e-a42c-4671-9008-2feb233e089e.png" radio="true" group-title="",DANCE WORKOUT
+https://drive.uber.radio/uber/sportifydance/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/18bb7277-c3a0-4e73-b770-4af1cb093a3f.png" radio="true" group-title="",GYM WEIGHT TRAINING 115 BPM
+https://drive.uber.radio/uber/sportifybpm115/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Hard_Rock_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/88d4d3da-10fc-41fc-9864-276c0dd8c150.png" radio="true" group-title="",HARD ROCK
+https://drive.uber.radio/uber/sportifyhardrock/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Hip_Hop_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5abb7d44-2eb4-48ea-9af7-61bf135bee6a.png" radio="true" group-title="",HIP HOP WORKOUT
+https://drive.uber.radio/uber/sportifyhiphop/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_K_Pop_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/022a8909-55b6-4594-ad11-0f4079c6a80b.png" radio="true" group-title="",K-POP WORKOUT
+https://drive.uber.radio/uber/sportifykpop/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Latin_Urban_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/405f312e-57c5-4413-8f6a-78fa72f0d6c3.png" radio="true" group-title="",LATIN URBAN WORKOUT
+https://drive.uber.radio/uber/sportifylatinurban/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Metal_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/cca1ce09-64ec-4926-b03b-a1f3818505c8.png" radio="true" group-title="",METAL WORKOUT
+https://drive.uber.radio/uber/sportifymetal/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Pop_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/534c5537-cb4c-4cd6-9463-21a3147d8c0e.png" radio="true" group-title="",POP WORKOUT
+https://drive.uber.radio/uber/sportifypop/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c6aee946-2cdc-46f3-8696-3b132a167d17.png" radio="true" group-title="",PURE WORKOUT 130 BPM
+https://drive.uber.radio/uber/sportifybpm130/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_R_and_B_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/c97ec163-2b87-4bfc-8fba-d5f3b758a9bd.png" radio="true" group-title="",R&B WORKOUT
+https://drive.uber.radio/uber/sportifyrandb/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Rock_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/df77a49e-735d-4732-ac50-bcb16ba85061.png" radio="true" group-title="",ROCK WORKOUT
+https://drive.uber.radio/uber/sportifyrock/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5c7b3b2e-517e-4263-927f-551e7a0907b4.png" radio="true" group-title="",RUNNING WORKOUT 160 BPM
+https://drive.uber.radio/uber/sportifybpm160/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Throwbacks_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5320e1c9-2db3-4bc7-8864-112ace6c1d6e.png" radio="true" group-title="",THROWBACKS
+https://drive.uber.radio/uber/sportifythrowbacks/icecast.audio
+
+# DATA : https://metadata.uber.radio/playing/api/Playing/Sportify_Trending_Workout
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/ce63b42b-73d4-455b-8580-e7d1da7a0a87.png" radio="true" group-title="",TRENDING WORKOUT
+https://drive.uber.radio/uber/sportifytrending/icecast.audio
+
+# DATA : Empty
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/8420da32-5cb1-4c88-8469-6ae28d365b52.png" radio="true" group-title="",WARMUP 100 BPM
+https://drive.uber.radio/uber/sportifybpm100/icecast.audio
