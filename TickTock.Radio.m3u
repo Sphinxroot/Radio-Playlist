@@ -5,7 +5,7 @@
 # https://ticktock.radio/
 #EXTINF:-1 tvg-logo="https://ticktock.radio/static/assets/img/Slider50s.jpg",★★★★★★★★★★[COLOR gold]TickTock Radio By Youradio[/COLOR]★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/801b872e-0fc4-46f9-9e74-78c691b2dcab.jpg",★★★★★[COLOR gold]50s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/801b872e-0fc4-46f9-9e74-78c691b2dcab.jpg",★★★★★[COLOR gold]50s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1950
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/f9a72aab-342d-438f-a475-21e99b21d903.jpg" radio="true" group-title="",1950
@@ -37,7 +37,7 @@ https://streaming.ticktock.radio/tt/1958/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1959
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/f9a72aab-342d-438f-a475-21e99b21d903.jpg" radio="true" group-title="",1959
 https://streaming.ticktock.radio/tt/1959/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/0b4707ba-1687-48f4-89b4-6eaf22153b4c.jpg",★★★★★[COLOR gold]60s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/0b4707ba-1687-48f4-89b4-6eaf22153b4c.jpg",★★★★★[COLOR gold]60s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1960
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/806d7d07-6258-49f1-bb60-ce9a18c82cbc.jpg" radio="true" group-title="",1960
@@ -69,7 +69,7 @@ https://streaming.ticktock.radio/tt/1968/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1969
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/806d7d07-6258-49f1-bb60-ce9a18c82cbc.jpg" radio="true" group-title="",1969
 https://streaming.ticktock.radio/tt/1969/icecast.audio
-#EXTINF:-1 tvg-logo="0-f47c0121ac5b.jpg",★★★★★[COLOR gold]70s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/42ac8980-7736-4681-ad10-f47c0121ac5b.jpg",★★★★★[COLOR gold]70s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1970
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/ba9ed9b3-381f-4cfb-b9e7-7a58d1f876f9.jpg" radio="true" group-title="",1970
@@ -101,7 +101,7 @@ https://streaming.ticktock.radio/tt/1978/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1979
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/ba9ed9b3-381f-4cfb-b9e7-7a58d1f876f9.jpg" radio="true" group-title="",1979
 https://streaming.ticktock.radio/tt/1979/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/b6fcc16b-4ae4-4224-bae9-8708f514eb5e.jpg",★★★★★[COLOR gold]80s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/b6fcc16b-4ae4-4224-bae9-8708f514eb5e.jpg",★★★★★[COLOR gold]80s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1980
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/20ec090b-3179-4e12-ad4e-e506d6a7aaf0.jpg" radio="true" group-title="",1980
@@ -133,7 +133,7 @@ https://streaming.ticktock.radio/tt/1988/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1989
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/20ec090b-3179-4e12-ad4e-e506d6a7aaf0.jpg" radio="true" group-title="",1989
 https://streaming.ticktock.radio/tt/1989/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/87b55e59-317f-4a0b-bd58-5fb5234cdc1c.jpg",★★★★★[COLOR gold]90s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/87b55e59-317f-4a0b-bd58-5fb5234cdc1c.jpg",★★★★★[COLOR gold]90s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1990
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5d03becb-300a-4bc9-b6e1-a5a762aeb474.jpg" radio="true" group-title="",1990
@@ -165,7 +165,7 @@ https://streaming.ticktock.radio/tt/1998/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_1999
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/5d03becb-300a-4bc9-b6e1-a5a762aeb474.jpg" radio="true" group-title="",1999
 https://streaming.ticktock.radio/tt/1999/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/fd5a9ced-57cf-4490-ab2b-341d576767c0.jpg",★★★★★[COLOR gold]2ks[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/fd5a9ced-57cf-4490-ab2b-341d576767c0.jpg",★★★★★[COLOR gold]2ks[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_2000
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/abf05129-af33-46b0-8fed-83f1b2d8fd3d.jpg" radio="true" group-title="",2000
@@ -197,7 +197,7 @@ https://streaming.ticktock.radio/tt/2008/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_2009
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/abf05129-af33-46b0-8fed-83f1b2d8fd3d.jpg" radio="true" group-title="",2009
 https://streaming.ticktock.radio/tt/2009/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/929c10b7-9f81-435a-af0a-06884e40ce5e.jpg",★★★★★[COLOR gold]2k10s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/929c10b7-9f81-435a-af0a-06884e40ce5e.jpg",★★★★★[COLOR gold]2k10s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_2010
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/fb466991-63c8-4bfd-ad67-70509c551283.jpg" radio="true" group-title="",2010
@@ -229,7 +229,7 @@ https://streaming.ticktock.radio/tt/2018/icecast.audio
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_2019
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/fb466991-63c8-4bfd-ad67-70509c551283.jpg" radio="true" group-title="",2019
 https://streaming.ticktock.radio/tt/2019/icecast.audio
-#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/78941ae1-3ad6-43af-811b-16f4dc76795c.jpg",★★★★★[COLOR gold]2k20s[/COLOR]★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/genre/78941ae1-3ad6-43af-811b-16f4dc76795c.jpg",★★★★★[COLOR gold]2k20s[/COLOR]★★★★★
 0.0.0.0
 # DATA : https://metadata.uber.radio/playing/api/Playing/TickTock_Tick_Tock_2020
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/3b451775-76e1-4355-95fa-e27565681118.jpg" radio="true" group-title="",2020
